@@ -24,11 +24,11 @@ The data is provided by Accenture Virtual Intership.
 
 ## Process Overview 
 ### 1. Data Exploration & Understanding
-The three datasets, Content, Reactions and Reaction Type are properly explored and understand which fields are required for analysis and whcih fields need to drop.
+The three datasets, **Content**, **Reactions** and **Reaction Type** are explored and understand which fields are required for analysis and which fields need to drop.
 
 
 ### 2.Data Cleaning
-After exploring the datasets, some fileds that are of no use are removed and empty cells are deleted from the dataset
+After exploring the datasets, some fields that are of no use are removed and empty cells are deleted from the dataset
 
 
 ### 3.Data Modeling
@@ -36,7 +36,7 @@ In this stage we have have merged the datasets with the help of common column us
 
 ### 4. Data Analysis
 In this stage, the data is analyzed. After analyzing, We came to know that top 5 Content categories are Animal, Science, Healthy Eating, Technology and Food.
-Based on this insights and other insights too, we will visualization in Power BI.
+Based on this insights and other insights too, we will visualize the insights in Power BI.
 
 
 ### 6. Visualize the data in Power BI
@@ -47,7 +47,7 @@ Cards, Stacked Bar Chart, Area Chart, Line Chart, Donut Chart and Filters
 
 #### 1. Cards
 
-The card is used to show number of negetive/positive sentiments and total score for content category.
+The cards are used to show number of negetive/positive sentiments and total score for content category.
 
 #### 2. Stacked Bar Chart
 
@@ -72,7 +72,7 @@ Filter is used to list out all the categories
 https://github.com/user-attachments/assets/f04b0147-d1a2-4a17-8dbe-b350c85955f3
 
 ### Conclusion from Analysis
-Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
+Based on the data, here are some insights and findings that is derived using the visualizations from Power BI:
 
 - There are total 16 Unique categories
 - Top 5 Content categories are Animal, Science, Healthy Eating, Technology and Food.

@@ -69,7 +69,7 @@ This chart represents the negetive nad positive sentiments by reaction type.
 
 Filter is used to list out all the categories
 
-https://github.com/user-attachments/assets/eced317f-0e70-4eeb-b67e-2b779c213503
+https://github.com/user-attachments/assets/f04b0147-d1a2-4a17-8dbe-b350c85955f3
 
 ### Conclusion from Analysis
 Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
@@ -78,4 +78,4 @@ Based on the data, here are some insights and findings that can be derived using
 - Top 5 Content categories are Animal, Science, Healthy Eating, Technology and Food.
 - 1897 reactions are associated with the Animal category.
 - May Month with most post, having total reactions of 2138.
-- There are around 14k total sentiments, out of whcih 7695 are negetive, 3071 are neutral and rest are positive sentiments.
+- There are around 14k positive sentiments 7695 negative and 3071 neutral sentiments.

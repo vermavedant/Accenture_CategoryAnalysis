@@ -3,7 +3,7 @@
 ## Objective
 The primary objective of this to assist Company, a rapidly expanding technology unicorn, in effectively scaling its operations on a global level. We will focus on three key areas to support this goal:
 
-**Identification of Top 5 Popular Content Categories:** Analyzing and identifying the most popular content categories to help Social Buzz optimize its content strategy and enhance user engagement.
+**Identification of Top 5 Popular Content Categories:** Analyzing and identifying the most popular content categories to help Company optimize its content strategy and enhance user engagement.
 
 **Audit of Big Data Practice:** Conducting a thorough audit of Company's Big Data practices to ensure they are robust, scalable, and aligned with best practices, thus enabling the company to handle its growing data needs effectively.
 
